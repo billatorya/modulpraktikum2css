@@ -6,17 +6,19 @@
     border:thin solid black !important;
 }
 header{
-    color: #6495ED;
+    background-color: #a34444;
+    color: #FFA07A;
     font-size: 24pt;
     padding: 20px;
 }
 body{
     font-family: 'Poppins', sans-serif;
-    color: #4e4e4e;
+    color: #872D1A;
     font-size: 16pt;
 }
 footer{
-   color: rgb(100, 149, 237);
+   background-color: #a34444;
+   color: rgb(255, 160, 122);
    font-size: 24pt;
 }
 .container{
